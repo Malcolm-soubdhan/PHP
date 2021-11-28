@@ -1,0 +1,32 @@
+
+body{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column; 
+}
+
+.bloc{
+    background-color: rgb(1, 1, 116); 
+    border-radius: 5px; 
+    width:20%;
+    padding: 6px; 
+    margin: 2%; 
+    display: flex;
+    color: white;
+}
+
+.bloc ul li a{
+  
+   align-items: center;
+   margin: auto; 
+   display: flex;
+}
+
+ul li{
+    list-style-type: none; 
+}
+
+a{
+    text-decoration: none; 
+    color: white;
+}
