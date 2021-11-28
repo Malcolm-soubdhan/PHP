@@ -1,2 +1,5 @@
 # PHP_training
-# PHP
+
+Here is a list of PHP's basic notions, implemented in practical exercises. 
+
+
