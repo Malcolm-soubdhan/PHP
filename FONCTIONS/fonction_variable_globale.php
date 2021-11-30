@@ -5,7 +5,7 @@ $b = 1;
 $c = 2;
 function somme() {
     global $b, $c;
-// on utilise le mot-celf "global" pour contourner la 
+// on utilise le mot-clef "global" pour contourner la 
 // limite appliquée aux portées des variables des fonctions .    
     echo $b + $c; 
 }
